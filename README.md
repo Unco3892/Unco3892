@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏻
+- 🕵🏻 _Who am I?_ I'm a doctoral student at the University of Lausanne, fond of open source projects (otherwise, why I would be on Github, right?!) and the tech world.
+- 🌱 _What am I into?_ I do research on multi-modal machine learning and the integration of structured and unstructured data.
+- 📫 _How to reach me?_ If you wanted grab a virtual coffee or just wanted to get in touch, you can drop me an email at ilia.azizi@unil.ch
 
-<!--
-**Unco3892/Unco3892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Logo](assets/images/logo.png?raw=true)
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
