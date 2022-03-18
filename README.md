@@ -3,7 +3,7 @@
 - 🌱 _What am I into?_ I do research on multi-modal machine learning and the integration of structured and unstructured data.
 - 📫 _How to reach me?_ If you wanted grab a virtual coffee or just wanted to get in touch, you can drop me an email at ilia.azizi@unil.ch
 
-![My Logo](assets/images/logo.png?raw=true)
+![My Logo](assets/images/logo.png?raw=true#gh-dark-mode-only)
 
 <!-- Here are some ideas to get you started:
 
