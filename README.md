@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
-- 🕵🏻 _Who am I?_ I'm a doctoral student at the University of Lausanne, fond of open source projects (otherwise, why I would be on Github, right?!) and the tech world.
-- 🌱 _What am I into?_ I do research on multi-modal machine learning and the integration of structured and unstructured data.
+- 🕵🏻 _Who am I?_ I'm a doctoral student at the University of Lausanne, a huge fan of open source projects (otherwise, why I would be on Github, right?!) tech breakthroughs.
+- 🌱 _What am I into?_ I do research on multi-modal machine learning (a.k.a multi-view learning or multi-input models) with a focus on the integration of structured and unstructured data.
 - 📫 _How to reach me?_ If you wanted grab a virtual coffee or just wanted to get in touch, you can drop me an email at ilia.azizi@unil.ch
 
 ![My Logo](assets/images/logo.png?raw=true#gh-dark-mode-only)
