@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Ilia,+nice+to+meet+you!;Learn+more+about+me+on+my+website!&font=Libre%20Baskerville&color=FFA500&width=500&height=50&duration=4000&pause=1000&size=23">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Ilia,+nice+to+meet+you!;Learn+more+about+me+on+my+website!&font=Libre%20Baskerville&color=8b4600&width=500&height=50&duration=4000&pause=1000&size=23">
 </p>
 <!-- markdownlint-enable MD033 -->
 
