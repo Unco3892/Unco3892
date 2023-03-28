@@ -8,7 +8,7 @@
 - 🌱 _What do I work on?_ I do research on multi-modal machine learning (a.k.a multi-view learning or multi-input models) with a focus on the integration of structured and unstructured data through novel interpretable deep learning techniques.
 - 📫 _How to reach me?_ If you wanted grab a virtual coffee or just wanted to get in touch, you can drop me an email at ilia.azizi@unil.ch
 
-![My Logo](assets/images/logo.png?raw=true#gh-dark-mode-only)
+<!-- ![My Logo](assets/images/logo.png?raw=true#gh-dark-mode-only) -->
 
 <!-- Here are some ideas to get you started:
 
